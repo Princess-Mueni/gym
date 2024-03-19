@@ -1,4 +1,4 @@
-# smart parking System
+#gym System
 
 
 
@@ -7,9 +7,8 @@ How To Install -
 ---------
 
 1. Create Database gym.
-2. Run parking.sql script provided.
-3. Go to Users/login.php and try out our application. Sample user credentials can be found in users & wallet_details table.
-
+2. Run gym.sql script provided.
+3. Go to gym/login.php and try out our application. 
 # users logins
 Go to gym/login.php
 email: user@gmail.com
